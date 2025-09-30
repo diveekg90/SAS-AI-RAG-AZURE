@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+openai>=1.0.0
+azure-identity
+azure-search-documents==11.6.0b8
+azure-storage-blob
+azure-ai-vision-imageanalysis
+pdfminer.six
+python-docx
+beautifulsoup4
